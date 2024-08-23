@@ -5,6 +5,8 @@ export default defineConfig({
   title: "Wyatt's Blog",
   description: "Wyatt's Blog",
   themeConfig: {
+    returnToTopLabel: " ",
+    sidebarMenuLabel: "目录",
     sidebar: [
       {
         collapsed: false,
