@@ -29,5 +29,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wyattzheng' }
     ],
+    outline: {
+      label: "菜单"
+    },
   }
 })
