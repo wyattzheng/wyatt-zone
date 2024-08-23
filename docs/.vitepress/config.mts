@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Wyatt's Blog",
   appearance: "dark",
   themeConfig: {
-    returnToTopLabel: " ",
+    returnToTopLabel: "回到顶部",
     sidebarMenuLabel: "目录",
     sidebar: [
       {
