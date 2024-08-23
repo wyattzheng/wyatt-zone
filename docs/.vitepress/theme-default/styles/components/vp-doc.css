@@ -74,6 +74,7 @@
 
 .vp-doc .header-anchor:before {
   content: var(--vp-header-anchor-symbol);
+  display: none;
 }
 
 .vp-doc h1:hover .header-anchor,
