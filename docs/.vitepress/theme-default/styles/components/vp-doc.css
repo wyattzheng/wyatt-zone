@@ -287,6 +287,7 @@
   font-size: 15px;
   background-color: var(--code-tip-color);
   border: 1px solid #444;
+  line-height: 30px;
 }
 
 .vp-doc a > code {
