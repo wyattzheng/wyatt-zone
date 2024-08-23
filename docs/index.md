@@ -9,17 +9,17 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /markdown-examples
+      link: /start
     - theme: alt
       text: 更多
-      link: /api-examples
+      link: /index
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 生活的总结
+    details: 关于生活中的想法和感悟
+  - title: 探索与实践
+    details: 研究复杂的普遍联系
+  - title: 软件设计的哲学
+    details: 总结理论以及如何应用到软件设计中
 ---
 

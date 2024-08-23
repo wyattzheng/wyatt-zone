@@ -5,15 +5,13 @@ export default defineConfig({
   title: "Wyatt's Blog",
   description: "Wyatt's Blog",
   themeConfig: {
-
     sidebar: [
       {
-        text: 'Examples',
+        collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Start', link: '/start' },
         ]
-      }
+      },
     ],
 
     socialLinks: [
