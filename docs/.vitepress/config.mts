@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Wyatt's Blog",
   description: "Wyatt's Blog",
-  appearance: "dark",
   themeConfig: {
     returnToTopLabel: "回到顶部",
     sidebarMenuLabel: "目录",
