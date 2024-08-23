@@ -8,11 +8,19 @@
 
   --vp-c-neutral: var(--vp-c-black);
   --vp-c-neutral-inverse: var(--vp-c-white);
+
+  --marker-color: #333;
+  --code-tip-color: rgb(245, 245, 245);
+  --split-color: rgb(235, 235, 235);
 }
 
 .dark {
   --vp-c-neutral: var(--vp-c-white);
   --vp-c-neutral-inverse: var(--vp-c-black);
+
+  --marker-color: #CCC;
+  --code-tip-color: #222;
+  --split-color: #333;
 }
 
 /**

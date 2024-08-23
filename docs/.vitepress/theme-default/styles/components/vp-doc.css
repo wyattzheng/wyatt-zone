@@ -1,3 +1,9 @@
+.vp-doc ::marker {
+  color: var(--marker-color);
+  line-height: 16px;
+  font-size: 16px;
+}
+
 /**
  * Headings
  * -------------------------------------------------------------------------- */
@@ -27,6 +33,16 @@
   line-height: 32px;
   font-size: 24px;
 }
+
+.vp-doc h2 {
+  border-top: 0;
+  padding-top: 0;
+  margin-top: 72px;  
+  padding-bottom: 6px;
+ }
+ .vp-doc h2:first-child {
+  margin-top: 0;
+ }
 
 .vp-doc h3 {
   margin: 32px 0 0;
@@ -124,9 +140,12 @@
     opacity 0.25s;
 }
 
-.vp-doc a:hover {
-  color: var(--vp-c-brand-2);
+.vp-doc a{
+  text-underline-offset: 4px;
+  text-decoration: none;
+  font-weight: 100;
 }
+
 
 .vp-doc strong {
   font-weight: 600;
@@ -138,7 +157,7 @@
 
 .vp-doc ul,
 .vp-doc ol {
-  padding-left: 1.25rem;
+  padding-left: 2.25rem;
   margin: 16px 0;
 }
 
@@ -257,6 +276,17 @@
   transition:
     color 0.25s,
     background-color 0.5s;
+}
+
+.vp-doc :not(pre) > code {
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 2.5px 6px;
+  color: var(--marker-color);
+  font-family: var(--vp-font-family-base);
+  font-size: 15px;
+  background-color: var(--code-tip-color);
+  border: 1px solid #444;
 }
 
 .vp-doc a > code {

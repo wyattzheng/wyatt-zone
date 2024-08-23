@@ -14,7 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "@docsearch/css": "^3.6.1",
-    "@vueuse/core": "^11.0.1"
+    "@vueuse/core": "^11.0.1",
+    "vitepress-sidebar": "^1.25.0"
   },
   "devDependencies": {
     "@types/node": "^22.5.0",
