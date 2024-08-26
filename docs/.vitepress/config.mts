@@ -19,7 +19,7 @@ export default defineConfig({
       },
       {
         collapsed: false,
-        text: "🌴 软件设计的哲学",
+        text: "🌴 软件开发的哲学",
         items: generateSidebar({
           documentRootPath: '/docs/',
           scanStartPath: '/software'
