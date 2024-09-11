@@ -8,6 +8,7 @@ export default defineConfig({
   appearance: "dark",
   lang: "zh",
   themeConfig: {
+    logoLink: "/start",
     returnToTopLabel: "回到顶部",
     sidebarMenuLabel: "目录",
     sidebar: [
