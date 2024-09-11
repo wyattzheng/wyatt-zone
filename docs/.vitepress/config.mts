@@ -20,10 +20,27 @@ export default defineConfig({
       {
         collapsed: false,
         text: "🌴 软件开发的哲学",
-        items: generateSidebar({
-          documentRootPath: '/docs/',
-          scanStartPath: '/software'
-        }) as SidebarItem[]
+        items: [
+          {
+            text: '【根本规律】', items: generateSidebar({
+              documentRootPath: '/docs/',
+              scanStartPath: '/software/ultimate'
+            }) as SidebarItem[]
+          },
+          {
+            text: '【普遍联系】', items: generateSidebar({
+              documentRootPath: '/docs/',
+              scanStartPath: '/software/contact'
+            }) as SidebarItem[]
+          },
+          {
+            text: '【底层原理】', items: generateSidebar({
+              documentRootPath: '/docs/',
+              scanStartPath: '/software/formula'
+            }) as SidebarItem[]
+          },
+          
+        ]
       },
     ],
     socialLinks: [
