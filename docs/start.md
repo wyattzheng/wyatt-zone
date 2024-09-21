@@ -7,7 +7,7 @@
 
 ### 底层原理
 
-- [寻找与找到](./software/contact/寻找与找到.md)
+- [寻找与找到](./software/formula/寻找与找到.md)
 - [心想与事成](./software/formula/心想与事成.md)
 - [问题的分解](./software/formula/问题的分解.md)
 - [目标的合并](./software/formula/目标的合并.md)

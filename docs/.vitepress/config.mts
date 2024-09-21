@@ -29,12 +29,6 @@ export default defineConfig({
             }) as SidebarItem[]
           },
           {
-            text: '【普遍联系】', items: generateSidebar({
-              documentRootPath: '/docs/',
-              scanStartPath: '/software/contact'
-            }) as SidebarItem[]
-          },
-          {
             text: '【底层原理】', items: generateSidebar({
               documentRootPath: '/docs/',
               scanStartPath: '/software/formula'
