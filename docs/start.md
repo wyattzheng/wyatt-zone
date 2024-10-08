@@ -5,6 +5,10 @@
 
 - [逻辑与抽象](./software/ultimate/逻辑与抽象.md)
 
+经过符号化：
+
+- [数学](./software/ultimate/数学.md)
+
 ### 底层原理
 
 - [寻找与找到](./software/formula/寻找与找到.md)
