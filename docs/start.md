@@ -7,7 +7,7 @@
 
 经过符号化：
 
-- [数学](./software/ultimate/数学.md)
+- [数学之基础](./software/ultimate/数学之基础.md)
 
 ### 底层原理
 
