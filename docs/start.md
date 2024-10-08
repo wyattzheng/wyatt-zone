@@ -4,10 +4,7 @@
 ### ☯️ 根本规律
 
 - [逻辑与抽象](./software/ultimate/逻辑与抽象.md)
-
-#### 符号化
-
-- [数学之根本](./software/ultimate/数学之基础.md)
+- [数学(符号化)](./software/ultimate/数学之基础.md)
 
 ### 💡 底层原理
 
