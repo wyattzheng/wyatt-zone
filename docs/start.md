@@ -5,7 +5,7 @@
 
 - [逻辑与抽象](./software/ultimate/逻辑与抽象.md)
 
-经过符号化：
+符号化：
 
 - [数学之基础](./software/ultimate/数学之基础.md)
 
