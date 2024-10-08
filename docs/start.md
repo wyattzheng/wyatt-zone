@@ -5,11 +5,11 @@
 
 - [逻辑与抽象](./software/ultimate/逻辑与抽象.md)
 
-#### 🏷️ 符号化
+#### 符号化
 
 - [数学之根本](./software/ultimate/数学之基础.md)
 
-### 💭 底层原理
+### 💡 底层原理
 
 - [联系中寻找](./software/formula/联系中寻找.md)
 - [心想与事成](./software/formula/心想与事成.md)
