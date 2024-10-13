@@ -5,7 +5,6 @@ import { SidebarItem, generateSidebar } from 'vitepress-sidebar'
 export default defineConfig({
   title: "Wyatt's Blog",
   description: "Wyatt's Blog",
-  appearance: "dark",
   lang: "zh",
   themeConfig: {
     logoLink: "/start",
