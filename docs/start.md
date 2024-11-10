@@ -3,6 +3,7 @@
 
 ### ☯️ 根本规律
 
+- [重复的出现](./software/ultimate/重复的出现.md)
 - [逻辑与抽象](./software/ultimate/逻辑与抽象.md)
 - [数学(符号化)](./software/ultimate/数学(符号化).md)
 - [事物(图形化)](./software/ultimate/事物(图形化).md)
