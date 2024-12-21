@@ -3,7 +3,6 @@
 
 ### ☯️ 根本规律
 
-- [重复的出现](./software/ultimate/重复的出现.md)
 - [逻辑与抽象](./software/ultimate/逻辑与抽象.md)
 - [抽象与忽略](./software/ultimate/抽象与忽略.md)
 - [特点与本质](./software/ultimate/特点与本质.md)
@@ -12,6 +11,7 @@
 
 ### 🚀 底层原理
 
+- [认知稳定性](./software/formula/认知稳定性.md)
 - [联系中寻找](./software/formula/联系中寻找.md)
 - [心想与事成](./software/formula/心想与事成.md)
 - [问题的分解](./software/formula/问题的分解.md)
