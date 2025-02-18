@@ -5,7 +5,6 @@
 
 - [逻辑与抽象](./software/ultimate/逻辑与抽象.md)
 - [抽象与忽略](./software/ultimate/抽象与忽略.md)
-- [特点与本质](./software/ultimate/特点与本质.md)
 - [数学(符号化)](./software/ultimate/数学(符号化).md)
 - [事物(图形化)](./software/ultimate/事物(图形化).md)
 
