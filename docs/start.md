@@ -4,7 +4,7 @@
 ### ☯️ 根本规律
 
 - [思维的方法](./software/ultimate/思维的方法.md)
-- [抽象与忽略](./software/ultimate/抽象与忽略.md)
+- [分析和综合](./software/ultimate/分析和综合.md)
 - [先验的知识](./software/ultimate/先验的知识.md)
 - [数学(符号化)](./software/ultimate/数学(符号化).md)
 - [事物(图形化)](./software/ultimate/事物(图形化).md)
