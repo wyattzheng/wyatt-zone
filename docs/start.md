@@ -3,8 +3,9 @@
 
 ### ☯️ 根本规律
 
-- [逻辑与抽象](./software/ultimate/逻辑与抽象.md)
+- [思维的方法](./software/ultimate/思维的方法.md)
 - [抽象与忽略](./software/ultimate/抽象与忽略.md)
+- [先验的知识](./software/ultimate/先验的知识.md)
 - [数学(符号化)](./software/ultimate/数学(符号化).md)
 - [事物(图形化)](./software/ultimate/事物(图形化).md)
 
