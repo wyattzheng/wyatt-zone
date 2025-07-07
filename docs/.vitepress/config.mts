@@ -37,6 +37,14 @@ export default defineConfig({
       },
       {
         collapsed: true,
+        text: "💰 经济篇",
+        link: '/economy',
+        items: [
+          { text: '', link: '' },
+        ]
+      },
+      {
+        collapsed: true,
         text: "⌚️ 时间线",
         link: '/journey',
         items: [
