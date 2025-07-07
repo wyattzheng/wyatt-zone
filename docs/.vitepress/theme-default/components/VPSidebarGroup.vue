@@ -43,7 +43,6 @@ onBeforeUnmount(() => {
 }
 
 .group + .group {
-  border-top: 1px solid var(--vp-c-divider);
   padding-top: 10px;
 }
 

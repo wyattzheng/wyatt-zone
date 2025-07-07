@@ -7,7 +7,6 @@ export default defineConfig({
   description: "Wyatt's Blog",
   lang: "zh",
   themeConfig: {
-    logoLink: "/start",
     returnToTopLabel: "回到顶部",
     sidebarMenuLabel: "目录",
     sidebar: [
@@ -18,8 +17,8 @@ export default defineConfig({
         ]
       },
       {
-        collapsed: false,
-        text: "🌴 软件开发的哲学",
+        collapsed: true,
+        text: "🌴 思维体系",
         items: [
           {
             text: '【根本规律】', items: generateSidebar({
@@ -36,6 +35,14 @@ export default defineConfig({
           
         ]
       },
+      {
+        collapsed: true,
+        text: "⌚️ 时间线",
+        link: '/journey',
+        items: [
+          { text: '', link: '' },
+        ]
+      }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wyattzheng' }

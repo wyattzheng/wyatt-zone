@@ -7,15 +7,12 @@ hero:
   text: 
   tagline: Think.
   actions:
-    - theme: brand
-      text: 底层原理
-      link: /formula/start
+    - theme: alt
+      text: 思维体系
+      link: /start
     - theme: alt
       text: 时间线
       link: /journey/index
-    - theme: alt
-      text: 更多
-      link: /index
 
 features:
   - title: 生活的总结
