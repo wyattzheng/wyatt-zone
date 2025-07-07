@@ -11,6 +11,9 @@ hero:
       text: 思维体系
       link: /start
     - theme: alt
+      text: 经济篇
+      link: /economy/index
+    - theme: alt
       text: 时间线
       link: /journey/index
 
