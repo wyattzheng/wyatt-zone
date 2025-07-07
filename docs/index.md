@@ -11,6 +11,9 @@ hero:
       text: 开始阅读
       link: /start
     - theme: alt
+      text: 时间线
+      link: /journey/index.html
+    - theme: alt
       text: 更多
       link: /index
 
