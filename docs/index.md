@@ -8,11 +8,11 @@ hero:
   tagline: Think.
   actions:
     - theme: brand
-      text: 开始阅读
-      link: /start
+      text: 底层原理
+      link: /formula/start
     - theme: alt
       text: 时间线
-      link: /journey/index.html
+      link: /journey/index
     - theme: alt
       text: 更多
       link: /index
