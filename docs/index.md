@@ -13,9 +13,6 @@ hero:
     - theme: alt
       text: 经济篇
       link: /economy/index
-    - theme: alt
-      text: 时间线
-      link: /journey/index
 
 features:
   - title: 生活的总结
