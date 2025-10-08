@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 经济篇
       link: /economy/index
+    - theme: alt
+      text: 健康篇
+      link: /health/index
 
 features:
   - title: 生活的总结
